@@ -8,9 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Este projeto foi criado para automatizar testes utilizando a ferramenta Playwright.",
   "dependencies": {
     "@cucumber/cucumber": "^11.3.0",
     "playwright": "^1.52.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dougolvr/Automacao_Playwright.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dougolvr/Automacao_Playwright/issues"
+  },
+  "homepage": "https://github.com/Dougolvr/Automacao_Playwright#readme"
 }
